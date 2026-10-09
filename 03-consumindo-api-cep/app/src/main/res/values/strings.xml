@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Consumindo API</string>
+    <string name="hint_cep">CEP</string>
+    <string name="btn_buscar_cep">Buscar CEP</string>
+    <string name="hint_logradouro">Logradouro</string>
+    <string name="hint_bairro">Bairro</string>
+    <string name="hint_cidade">Cidade</string>
+    <string name="hint_estado">Estado</string>
+</resources>
