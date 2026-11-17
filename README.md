@@ -8,6 +8,7 @@ Atividades e projetos da disciplina **Programação de Aplicativos Mobile II** (
 | [`02-cadastro-clientes-sqlite`](02-cadastro-clientes-sqlite/) | Cadastro de clientes e usuários com login e banco local SQLite | Java, Android, SQLite | 06/2026 |
 | [`03-consumindo-api-cep`](03-consumindo-api-cep/) | Consulta de endereço por CEP consumindo uma API REST | Java, Android, Retrofit | 08/2026 |
 | [`04-player-de-videos`](04-player-de-videos/) | Lista e reprodução de vídeos no app | Java, Android | 09/2026 |
+| [`05-recyclerview-lista-contatos`](05-recyclerview-lista-contatos/) | Lista de contatos estilo WhatsApp com RecyclerView, Adapter e ViewHolder | Java, Android, RecyclerView | 11/2026 |
 
 ## Como rodar
 
